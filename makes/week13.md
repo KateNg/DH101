@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 13 – Futures of AI & Humanity"
+permalink: /makes/week13.html
+---
+
 # Week 13 – Futures of AI & Humanity
 
 ## The Artifact

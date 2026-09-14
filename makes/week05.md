@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 5 – GIF & Remix Culture"
+permalink: /makes/week05.html
+---
+
 # Week 5 – GIF & Remix Culture
 
 ## The Artifact

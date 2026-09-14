@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 6 – Text & Distant Reading"
+permalink: /makes/week06.html
+---
+
 # Week 6 – Text & Distant Reading
 
 ## The Artifact

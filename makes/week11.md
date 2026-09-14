@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 11 – AI & Labor"
+permalink: /makes/week11.html
+---
+
 # Week 11 – AI & Labor
 
 ## The Artifact

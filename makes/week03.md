@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 3 – Selfie & Identity"
+permalink: /makes/week03.html
+---
+
 # Week 3 – Selfie & Identity
 
 ## The Artifact

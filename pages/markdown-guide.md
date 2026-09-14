@@ -1,6 +1,13 @@
+---
+layout: default
+title: "Markdown Guide"
+permalink: /pages/markdown-guide.html
+---
+
 # Markdown Guide
 
 Quick reference for writing course pages and reflections.
+
 
 ## Headings
 Use `#` for titles and smaller headings.

@@ -1,4 +1,11 @@
+---
+layout: default
+title: "AI Use Log Template"
+permalink: /ai-log/template.html
+---
+
 # AI Use Log
+
 
 **Date:**
 

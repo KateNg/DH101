@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 10 – Games & Play"
+permalink: /makes/week10.html
+---
+
 # Week 10 – Games & Play
 
 ## The Artifact

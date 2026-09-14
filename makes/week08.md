@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 8 – Networks of Knowledge & Power"
+permalink: /makes/week08.html
+---
+
 # Week 8 – Networks of Knowledge & Power
 
 ## The Artifact

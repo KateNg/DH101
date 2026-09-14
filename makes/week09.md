@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 9 – Bots & Generators"
+permalink: /makes/week09.html
+---
+
 # Week 9 – Bots & Generators
 
 ## The Artifact

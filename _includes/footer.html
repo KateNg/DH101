@@ -1,0 +1,41 @@
+<footer class="site-footer">
+  <div class="footer-inner container">
+    <div class="footer-grid">
+      <div class="footer-col footer-col-about">
+        <h3 class="footer-title">{{ site.title | default: "DH101" }}</h3>
+        <p class="footer-desc">Digital Humanities 101 Coursework & Academic Portfolio • Denison University • Spring 2026</p>
+      </div>
+
+      <div class="footer-col">
+        <h4 class="footer-heading">Portfolio</h4>
+        <ul class="footer-links">
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/pages/about.html' | relative_url }}">About Me</a></li>
+          <li><a href="{{ '/pages/cv.html' | relative_url }}">Curriculum Vitae</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4 class="footer-heading">Coursework</h4>
+        <ul class="footer-links">
+          <li><a href="{{ '/makes/' | relative_url }}">Weekly Makes</a></li>
+          <li><a href="{{ '/reflections/' | relative_url }}">Reflections</a></li>
+          <li><a href="{{ '/pages/markdown-guide.html' | relative_url }}">Markdown Guide</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4 class="footer-heading">Ethics & AI</h4>
+        <ul class="footer-links">
+          <li><a href="{{ '/pages/how-i-use-ai.html' | relative_url }}">How I Use AI</a></li>
+          <li><a href="{{ '/pages/accessibility.html' | relative_url }}">Accessibility</a></li>
+          <li><a href="{{ '/pages/sustainability.html' | relative_url }}">Sustainability</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>© {{ 'now' | date: "%Y" }} {{ site.author | default: "Kate Nguyen" }}. Built with Jekyll & hosted on GitHub Pages.</p>
+    </div>
+  </div>
+</footer>

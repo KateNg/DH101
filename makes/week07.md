@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 7 – Mapping AI Worlds"
+permalink: /makes/week07.html
+---
+
 # Week 7 – Mapping AI Worlds
 
 ## The Artifact

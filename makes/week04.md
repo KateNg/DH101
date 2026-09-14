@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 4 – Comic & Storytelling"
+permalink: /makes/week04.html
+---
+
 # Week 4 – Comic & Storytelling
 
 ## The Artifact

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 12 – AI & Ecology"
+permalink: /makes/week12.html
+---
+
 # Week 12 – AI & Ecology
 
 ## The Artifact

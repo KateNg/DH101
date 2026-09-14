@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Week 2 Reflection"
+permalink: /reflections/week02.html
+---
+
 > **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
 
 # Week 2 Reflection
